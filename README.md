@@ -29,7 +29,7 @@ Download the dataset:
 
 Dataset are available at [Huggingface Repo](https://huggingface.co/datasets/zhangzixin02/PhysToolBench).
 ```shell
-huggingface-cli download zhangzixin02/PhysToolBench
+huggingface-cli download --repo-type dataset zhangzixin02/PhysToolBench
 ```
 
 
