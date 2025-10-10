@@ -1,0 +1,15 @@
+flask==3.0.0
+requests==2.31.0
+Werkzeug==3.0.1
+anthropic
+google-genai
+openai
+Pillow
+tqdm
+datasets
+fastapi
+uvicorn
+# if you want to use the local models, you need to install the following dependencies
+# torch==2.7.0
+# transformers==4.56.0
+# accelerate==1.10.1

@@ -1,0 +1,1 @@
+python src/inference.py --model_name qwen-2.5-vl-32B --api_url http://localhost:8004 --api_key ""
