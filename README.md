@@ -26,6 +26,8 @@ conda create phystoolbench
 pip install -r requirements.txt
 ```
 Download the dataset:
+
+Dataset are available at [Huggingface Repo](https://huggingface.co/datasets/zhangzixin02/PhysToolBench).
 ```shell
 huggingface-cli download zhangzixin02/PhysToolBench
 ```
