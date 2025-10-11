@@ -1,5 +1,7 @@
 # PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs
 
+Paper coming soon...
+
 ## Introduction
 > **"Man is a Tool-using Animal; without tools he is nothing, with tools he is all." --Thomas Carlyle**
 
