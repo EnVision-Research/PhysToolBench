@@ -1,6 +1,32 @@
-# PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs
+# <img src="assets/hammer_and_wrench.png" style="height:1.2em; vertical-align:bottom;"/>&nbsp;PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs
 
-Paper coming soon...
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.09507)
+[![Dataset](https://img.shields.io/badge/🤗%20HuggingFace-Data%20-yellow)](https://huggingface.co/datasets/zhangzixin02/PhysToolBench)
+
+Zixin Zhang<sup>1*</sup>,
+Kanghao Chen<sup>1*</sup>,
+Xingwang Lin<sup>3</sup>,
+Lutao Jiang<sup>1</sup>,
+Xu Zheng<sup>1</sup>,
+Yuanhuiyi Lyu<sup>1</sup>,
+Litao Guo<sup>1</sup>,
+Yinchuan Li<sup>4</sup>,
+Ying-Cong Chen<sup>1,2&#9993;</sup>,
+
+
+<span class="author-block"><sup>1</sup>HKUST(GZ)</span>
+<span class="author-block"><sup>2</sup>HKUST</span>
+<span class="author-block"><sup>3</sup>Beihang University</span>
+<span class="author-block"><sup>4</sup>Knowin</span><br>
+<span class="author-block">
+    <sup>*</sup>Equal contribution.
+    <sup>&#9993;</sup>Corresponding author.
+</span>
+
+
+##  📢 News
+- **[2025.10.13]** The paper is now available on arXiv!
+- **[2025.10.10]** We release the dataset and the code! Welcome to use and star our project!
 
 ## Introduction
 > **"Man is a Tool-using Animal; without tools he is nothing, with tools he is all." --Thomas Carlyle**
@@ -72,6 +98,16 @@ python src/metric.py
 ## Todo
 - [ ]  Add Support to VLMEvalKit
 
+## Citation
+```bibtex
+@article{jiang2025dimer,
+  title={PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs},
+  author={Zhang, Zixin and Chen, Kanghao and Lin, Xingwang and Jiang, Lutao and Zheng, Xu and Lyu, Yuanhuiyi and Guo, Litao and Li, Yinchuan and Chen, Ying-Cong},
+  journal={arXiv preprint arXiv:2510.09507},
+  year={2025}
+}
+```
+
 ## Acknowledgement
-Our code is built upon the following repositories:
+Our code is built upon the following repositories, and we thank the authors for their contributions:
 - [VGRP-Bench](https://github.com/ryf1123/VGRP-Bench)
