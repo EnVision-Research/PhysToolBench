@@ -100,7 +100,7 @@ python src/metric.py
 
 ## Citation
 ```bibtex
-@article{jiang2025dimer,
+@article{zhang2025phystoolbench,
   title={PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs},
   author={Zhang, Zixin and Chen, Kanghao and Lin, Xingwang and Jiang, Lutao and Zheng, Xu and Lyu, Yuanhuiyi and Guo, Litao and Li, Yinchuan and Chen, Ying-Cong},
   journal={arXiv preprint arXiv:2510.09507},
