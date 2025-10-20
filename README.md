@@ -11,7 +11,7 @@
 [Yuanhuiyi Lyu](https://qc-ly.github.io/)<sup>1</sup>,
 [Litao Guo](https://scholar.google.com/citations?hl=zh-CN&user=efdm760AAAAJ)<sup>1</sup>,
 [Yinchuan Li](https://scholar.google.com/citations?user=M6YfuCTSaKsC&hl=en)<sup>4</sup>,
-[Ying-Cong Chen](https://www.yingcong.me/)<sup>1,2&#9993;</sup>,
+[Ying-Cong Chen](https://www.yingcong.me/)<sup>1,2&#9993;</sup>
 
 
 <span class="author-block"><sup>1</sup>HKUST(GZ)</span>
