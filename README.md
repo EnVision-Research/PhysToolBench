@@ -3,15 +3,15 @@
 [![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.09507)
 [![Dataset](https://img.shields.io/badge/🤗%20HuggingFace-Data%20-yellow)](https://huggingface.co/datasets/zhangzixin02/PhysToolBench)
 
-Zixin Zhang<sup>1*</sup>,
-Kanghao Chen<sup>1*</sup>,
-Xingwang Lin<sup>3</sup>,
-Lutao Jiang<sup>1</sup>,
-Xu Zheng<sup>1</sup>,
-Yuanhuiyi Lyu<sup>1</sup>,
-Litao Guo<sup>1</sup>,
-Yinchuan Li<sup>4</sup>,
-Ying-Cong Chen<sup>1,2&#9993;</sup>,
+[Zixin Zhang](https://scholar.google.com/citations?user=BbZ0mwoAAAAJ&hl=zh-CN)<sup>1*</sup>,
+[Kanghao Chen](https://khao123.github.io/)<sup>1*</sup>,
+[Xingwang Lin](https://github.com/EnVision-Research/PhysToolBench)<sup>3</sup>,
+[Lutao Jiang](https://lutao2021.github.io/)<sup>1</sup>,
+[Xu Zheng](https://zhengxujosh.github.io/)<sup>1</sup>,
+[Yuanhuiyi Lyu](https://qc-ly.github.io/)<sup>1</sup>,
+[Litao Guo](https://scholar.google.com/citations?hl=zh-CN&user=efdm760AAAAJ)<sup>1</sup>,
+[Yinchuan Li](https://scholar.google.com/citations?user=M6YfuCTSaKsC&hl=en)<sup>4</sup>,
+[Ying-Cong Chen](https://www.yingcong.me/)<sup>1,2&#9993;</sup>,
 
 
 <span class="author-block"><sup>1</sup>HKUST(GZ)</span>
